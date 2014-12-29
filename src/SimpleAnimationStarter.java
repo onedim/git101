@@ -33,7 +33,7 @@ public class SimpleAnimationStarter extends JPanel implements ActionListener {
 
     }
     
-    //------ Implementation details: DO NOT EXPECT TO UNDERSTAND THIS ------
+    //------ Implementation details: DO NOT EXPECT TO UNDERSTAND THIS ------------
     
     
     public static void main(String[] args) {
